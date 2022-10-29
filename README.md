@@ -14,10 +14,10 @@ Tools price is
 30 days 600
 
 # Commands 
-pkg update 
-pkg upgrade 
-pkg install python 
-pkg install git
+-pkg update 
+-pkg upgrade 
+-pkg install python 
+-pkg install git
 pip install requests 
 pip install machines 
 pip install bs4 
@@ -30,7 +30,7 @@ git clone https://github.com/Jahidul404/Mr-Green
 cd Mr-Green
 python Jahid.py
 
-#Contract 
+# Contract 
 
 To buy this tools. 
 Contract me. 
