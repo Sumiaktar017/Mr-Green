@@ -14,21 +14,21 @@ Tools price is
 30 days 600
 
 # Commands 
--pkg update 
--pkg upgrade 
--pkg install python 
--pkg install git
-pip install requests 
-pip install machines 
-pip install bs4 
-pip install rich 
-pip install stdiomask 
-pip install platform 
-cd $HOME
-rm -rf Mr-Green
-git clone https://github.com/Jahidul404/Mr-Green
-cd Mr-Green
-python Jahid.py
+- pkg update 
+- pkg upgrade 
+- pkg install python 
+- pkg install git
+- pip install requests 
+- pip install machines 
+- pip install bs4 
+- pip install rich 
+- pip install stdiomask 
+- pip install platform 
+- cd $HOME
+- rm -rf Mr-Green
+- git clone https://github.com/Jahidul404/Mr-Green
+- cd Mr-Green
+- python Jahid.py
 
 # Contract 
 
